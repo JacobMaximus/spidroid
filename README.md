@@ -67,23 +67,14 @@ interface Plant {
 - Separate **client SDK** configuration
 - Sensitive credentials stored in **environment variables**
 
----
-## 🚀 Deployment
-- **Configured for Vercel deployment**
-- Static output enabled for optimized performance
-- Environment variables managed through **Vercel dashboard**
 
----
-## 🛠️ Error Handling
-- Consistent **error response format**
-- Proper **HTTP status codes** for different scenarios
-- **Logging enabled** for debugging
+
 
 ---
 ## 📌 Getting Started
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/spider-bot-backend.git
+git clone https://github.com/JacobMaximus/spidroid
 cd spider-bot-backend
 ```
 ### **2️⃣ Install Dependencies**
@@ -100,7 +91,4 @@ npm install
 npm run dev
 ```
 
----
-## 📧 Contact
-For questions or contributions, reach out to the team at **your-email@example.com**.
 
